@@ -5,6 +5,7 @@
 The Servo Flap Ornithopter(SFO) flies by flapping its wings, which are programmed through an Arduino board and operated using Servo.
 Unlike model airplanes which use propellers to fly, this allows for a more natural flight.
 However, because it uses the weak power of the Servo to flap its wings, it needs to be as lightweight as possible, which demands advanced building techniques.
+
  This is the code for an Ornithopter which uses four Servos.
   DragonFly, Flaptter, Dune's Ornithopter, Hebikera etc
 
@@ -80,7 +81,7 @@ Ground -GND pin
 
 ## My setting
 
-Lipo: 70-150mAh1cell Lipo battery
+Lipo: 70-150mAh2cell Lipo battery
 
 Servo: BLUEARROW AF D43S-6.0-MG Micro Metal Gear Digital Servo
 
@@ -91,7 +92,7 @@ DC step down converter from 2cell Lipo to 6V output
 
 
 ## Flap motion and Wing control VTR 
-SFODragonFly132　Pro mini New Wing 71g : Flap Test and Motion
+SFODragonFly132 Pro mini New Wing 71g : Flap Test and Motion
 (https://www.youtube.com/watch?v=1vFoBIzVszE)
 
 
