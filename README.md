@@ -105,4 +105,19 @@ SFODragonFly132 Pro mini New Wing 71g : Flap Test and Motion
 
 ## Request site for production of Kazu Ornithpter
 (http://kakutaclinic.life.coocan.jp/KOrniSSt.html)
+
+
+SFODragonFly90  
+https://www.youtube.com/playlist?list=PLErvdRrwWuPoEXs-Y3nmkGWoydMAHvemE
+
+SFOFlaptter117(BlueArrowD0576Servo) & 114(BlueArrowAFD43SServo)
+https://www.youtube.com/playlist?list=PLErvdRrwWuPq1wbbz15mC92AITdaS9xsx
+
+SFOHebikera119
+https://www.youtube.com/playlist?list=PLErvdRrwWuPp_7BxYukhfohXXNFYhidXz
+
+SFODuneOrni115
+https://www.youtube.com/playlist?list=PLErvdRrwWuPo04E3fHelekA5IRo_u4Kzd
+
+
  
