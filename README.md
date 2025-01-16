@@ -34,9 +34,9 @@ The maximum thrust can be obtained when the flapping phase of the front wings is
 7 Ch8 allows the dihedral angle of the rear wings to be adjusted.
 
 
-Setting : 
+## Setting : 
 
-Set elevator and rudder and aileron stick Center-- 1500microsesond
+Set elevator and rudder and aileron stick Center-- 1500 microsesond
 
 Set 5Ch at Slider or Volume or other switch
 
