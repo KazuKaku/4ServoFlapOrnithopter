@@ -1,6 +1,5 @@
 //231011 version3 for ZIP added Rear wing Aileron same move 221208 Version2 added ch7 RearWingTrim　210916 15-4th Code 4servo Rudder ElevatorUP FlapAmpUP not delaytime control PPMRX Ch1-4 writeMicroseconds(1000-2000uS) use 5V3A  FrontServoLate RearServo Ailron act only Front servo dt and elapsed time by K.Kakuta
 //241211 Ch8 rearWElevtrim
-//250201 Rear Left -> Right Wing Front Right -> Left Wing Flap
 #include <Servo.h>
 #include "src/PPMReader/PPMReader.h"// <PPMReader.h>
 //#include <InterruptHandler.h>// 2022/01/27 Delete for more good move
@@ -148,10 +147,9 @@ if (elapsed_time < delaytime4/1000) {
   servo_right2.writeMicroseconds(servo_comm4); // Rear right servo position 
 }
 if ((elapsed_time > delaytime4/1000) && ( elapsed_time < (delaytime4 + delaytime3)/1000)) {
-
-
-  servo_right.writeMicroseconds(servo_comm2); // Front right servo position
-  servo_left.writeMicroseconds(servo_comm1); // Front left servo position  
+  
+  servo_left.writeMicroseconds(servo_comm1); // Front left servo position 
+  servo_right.writeMicroseconds(servo_comm2); // Front right servo position 
    
 }
 if ((elapsed_time > (delaytime4 + delaytime3)/1000) && (elapsed_time < (delaytime4 + delaytime3 + delaytime4)/1000)) {
@@ -166,9 +164,8 @@ if ((elapsed_time > (delaytime4 + delaytime3)/1000) && (elapsed_time < (delaytim
 }
    if (elapsed_time > (delaytime4 + delaytime3 + delaytime4)/1000)  {
 
-  
+  servo_left.writeMicroseconds(servo_comm2); // Front left servo position  
   servo_right.writeMicroseconds(servo_comm1); // Front right servo position 
-  servo_left.writeMicroseconds(servo_comm2); // Front left servo position 
   
     //Serial.print("servo_comm1");Serial.print(servo_comm1);
     //Serial.print(",\t");
