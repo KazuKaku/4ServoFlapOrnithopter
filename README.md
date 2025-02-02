@@ -33,6 +33,12 @@ The maximum thrust can be obtained when the flapping phase of the front wings is
 
 7 Ch8 allows the dihedral angle of the rear wings to be adjusted.
 
+### aileron stttting
+  
+   The direction in which the ailerons turn left or right depends on the angle of the rear wings.
+
+    You'll need to actually fly the Ornithopter and verify which way it turns before setting it up.
+
 
 ## Setting : 
 
