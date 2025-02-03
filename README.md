@@ -42,6 +42,14 @@ Set 5Ch at Slider or Volume or other switch
 
 Set throttle stick at low max --1000 microsecond
 
+### Aileron stttting
+  
+  The direction in which the ailerons turn left or right depends on the angle of the rear wings.
+
+  You'll need to actually fly the Ornithopter and verify which way it turns before setting it up.
+
+
+
 ## Need :
    Small ppm output Receiver(8 channels)
 
