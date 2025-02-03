@@ -42,7 +42,7 @@ Set 5Ch at Slider or Volume or other switch
 
 Set throttle stick at low max --1000 microsecond
 
-### Aileron stttting
+### Aileron setting
   
   The direction in which the ailerons turn left or right depends on the angle of the rear wings.
 
