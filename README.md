@@ -1,4 +1,4 @@
-# Arduino CODE for 4ServoFlapOrnithopter
+# Arduino CODE for 4ServoFlapOrnithopter ppm
 
 ![230711-2 Pterasaur3small](/image/230711-2%20Pterasaur3small%20.jpg)
 
